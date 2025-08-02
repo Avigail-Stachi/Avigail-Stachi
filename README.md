@@ -15,7 +15,7 @@ Fast learner, passionate about solving real-world problems and delivering practi
 - Backend in **Python** (TensorFlow, PyTorch) with **SQLite** and full **React** frontend.
 - Integrated **SMS alerts with live location** and a user-friendly offline web app.
 
-### 🤖 [Robotic Arm with ESP32 & React Dashboard](https://github.com/Avigail-Stachi/robotic_arm_esp32)
+### 🤖 [Robotic Arm with ESP32 & React Dashboard](https://github.com/Avigail-Stachi/candyCatch)
 - Hardware project controlling a robotic arm with a potentiometer and ESP32 microcontroller.
 - Integrated multiple sensors with real-time control.
 - Built a **React** web application for interactive game management and device monitoring.
