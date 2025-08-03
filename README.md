@@ -15,12 +15,12 @@ Fast learner, passionate about solving real-world problems and delivering practi
 - Backend in **Python** (TensorFlow, PyTorch) with **SQLite** and full **React** frontend.
 - Integrated **SMS alerts with live location** and a user-friendly offline web app.
 
-### 🤖 [Robotic Arm Game System with ESP32, Fingerprint Sensor & React Dashboard](https://github.com/Avigail-Stachi/candyCatch)
-- **Interactive game system** with a real robotic arm, managed by an **ESP32** microcontroller.
-- Includes a **TFT touch screen** with virtual keyboard for player registration.
-- Players identify using a **fingerprint sensor**, and take turns based on a queue stored in **Firebase**.
-- The ESP32 handles queue management, verifies fingerprint matches, and triggers a **servo motor** to release a candy when a turn starts.
-- Real-time updates sync between the ESP32 and a **React dashboard**, allowing remote game monitoring and turn status.
+### 🤖 [Robotic Arm Candy Catch Game System](https://github.com/Avigail-Stachi/candyCatch)
+- Interactive children’s game featuring a robotic arm controlled by two microcontrollers: **Arduino Uno** (managing servo motors and potentiometers for precise arm movement) and **ESP32** (handling player identification, sensors including fingerprint, touch, and distance, and queue management).  
+- Players register via a **fingerprint sensor**, with a personalized timer and turn queue managed in real-time.  
+- A **React dashboard** synced with **Firebase** provides real-time player queue management and game status updates.  
+- ESP32 communicates with Firebase to update turn progress and queue state.  
+- Combines embedded systems, IoT, and full-stack web development for an engaging, real-time interactive experience.
 
 ### 📚 [Book Library React App](https://github.com/Avigail-Stachi/books_store)
 - Frontend project for managing and browsing a book collection.
