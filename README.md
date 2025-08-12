@@ -48,7 +48,7 @@ Fast learner, passionate about solving real-world problems and delivering practi
 
 ## 📫 Contact Me
 - 📧 Email: [avigail.stachi@gmail.com](mailto:avigail.stachi@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/avigail-stachi-588a092b8/) | [GitHub](https://github.com/Avigail-Stachi)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/avigail-stachi/) | [GitHub](https://github.com/Avigail-Stachi)
 
 ---
 
