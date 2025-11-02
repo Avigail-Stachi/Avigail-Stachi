@@ -26,7 +26,7 @@ Fast learner, passionate about solving real-world problems and delivering practi
 - Frontend project for managing and browsing a book collection.
 - Built with **React** and reusable components.
 
-### 🏪 [Grocery Store Management System](https://github.com/Avigail-Stachi/tasks/tree/master/exercise4/grocery)
+### 🏪 [Grocery Store Management System](https://github.com/Avigail-Stachi/grocery-store)
 - Full-stack **Node.js + React + MongoDB** app for suppliers and store owners to manage orders and inventory.
 - Designed efficient backend API and responsive UI.
 
