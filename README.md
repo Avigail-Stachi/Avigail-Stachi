@@ -39,10 +39,10 @@ Fast learner, passionate about solving real-world problems and delivering practi
 ---
 
 ## 🛠️ Tech Stack
-- **Languages & Frameworks:** Python, C#, .NET Core, Node.js, JavaScript, React, C  
-- **Databases:** SQL Server, SQLite, MongoDB, MS Access  
+- **Languages & Frameworks:** Python, C#, .NET, JavaScript (Node.js, React), C, Embedded C++  
+- **Databases:** SQL Server, SQLite, MongoDB, Firebase, MS Access  
 - **AI & ML:** TensorFlow, PyTorch  
-- **Tools:** Git, GitHub, Postman, Entity Framework, Web API  
+- **Tools:** Git (GitHub, BitBucket) Postman, Entity Framework, Web API  
 
 ---
 
