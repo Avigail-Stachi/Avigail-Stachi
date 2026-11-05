@@ -14,7 +14,7 @@ For my capstone, I built a first-aid assistant with two LSTM-based NLP models: o
 
 I connected the models to a Python backend and React chat interface, used SQLite to store treatment instructions, and integrated Twilio for SMS notifications with location information.
 
-The interesting part was getting the models to work as part of an application, beyond the training notebook.
+The most interesting part for me was exploring neural networks, experimenting with different architectures, and actually training the models.
 
 ### [Grocery Store Management](https://github.com/Avigail-Stachi/grocery-store)
 
