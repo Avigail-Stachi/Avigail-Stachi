@@ -1,6 +1,6 @@
 # Hi, I'm Avigail Stachi
 
-I like the part where the pieces finally connect: a model, an API, a database, and an interface someone can actually use 🧩🧩🧩
+I like the part where the pieces finally connect: an AI model, an API, a database, and an interface someone can actually use 🧩🧩🧩
 
 I'm a software engineer focused on backend development, with a particular interest in machine learning. I've worked on model inference, automation, and RAG-based support agents. Here you'll find my personal and academic projects, from training models to building the applications around them.
 
