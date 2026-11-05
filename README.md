@@ -1,55 +1,51 @@
-# 👋 Hi, I'm Avigail Stachi  
+# Hi, I'm Avigail Stachi
 
-💻 **Software Engineer | Backend-Oriented Developer | AI & Full-Stack Projects**  
+I like the part where the pieces finally connect: a model, an API, a database, and an interface someone can actually use.
 
-I'm a software engineer with hands-on experience building intelligent systems that integrate **NLP**, **computer vision**, and **deep learning**.  
-I enjoy creating scalable backend solutions and full-stack applications, combining **Python**, **C#/.NET**, **Node.js**, and modern **React** frontends.  
-Fast learner, passionate about solving real-world problems and delivering practical, production-ready solutions.  
+I'm a software engineer focused on backend development, with a particular interest in machine learning. I've worked on model inference, automation, and RAG-based support agents. Here you'll find my personal and academic projects, from training models to building the applications around them.
 
----
+## A few things I've built
 
-## 🚀 Featured Projects
+### [First Aid Assistant](https://github.com/Avigail-Stachi/first_aid_app)
 
-### 🆘 [First Aid Intelligent System (Capstone Project)](https://github.com/Avigail-Stachi/first_aid_app)
-- Built deep learning models: **LSTM NLP model** + **Faster R-CNN computer vision** to identify medical emergencies from text and images.
-- Backend in **Python** (TensorFlow, PyTorch) with **SQLite** and full **React** frontend.
-- Integrated **SMS alerts with live location** and a user-friendly offline web app.
+What can you build around a description of an injury, or a photo of one?
 
-### 🤖 [Robotic Arm Candy Catch Game System](https://github.com/Avigail-Stachi/candyCatch)
-- Interactive children’s game featuring a robotic arm controlled by two microcontrollers: **Arduino Uno** (managing servo motors and potentiometers for precise arm movement) and **ESP32** (handling player identification, sensors including fingerprint, touch, and distance, and queue management).  
-- Players register via a **fingerprint sensor**, with a personalized timer and turn queue managed in real-time.  
-- A **React dashboard** synced with **Firebase** provides real-time player queue management and game status updates.  
-- ESP32 communicates with Firebase to update turn progress and queue state.  
-- Combines embedded systems, IoT, and full-stack web development for an engaging, real-time interactive experience.
+For my capstone, I built a first-aid assistant with two LSTM-based NLP models: one to classify the medical scenario and another to assess whether an ambulance is needed. I also fine-tuned a Faster R-CNN model to analyze injury images.
 
-### 📚 [Book Library React App](https://github.com/Avigail-Stachi/books_store)
-- Frontend project for managing and browsing a book collection.
-- Built with **React** and reusable components.
+I connected the models to a Python backend and React chat interface, used SQLite to store treatment instructions, and integrated Twilio for SMS notifications with location information.
 
-### 🏪 [Grocery Store Management System](https://github.com/Avigail-Stachi/grocery-store)
-- Full-stack **Node.js + React + MongoDB** app for suppliers and store owners to manage orders and inventory.
-- Designed efficient backend API and responsive UI.
+The interesting part was getting the models to work as part of an application, beyond the training notebook.
 
-### 💰 [Donation Management System](https://github.com/Avigail-Stachi/donation_project)
-- Backend in **Node.js + MongoDB** for managing donations, API endpoints, and Postman-tested routes.
+**Python, TensorFlow, PyTorch, React, SQLite, Twilio**
 
-### 💃 [Dance Studio SQL Project](https://github.com/Avigail-Stachi/dance_studio_sql)
-- SQL Server database with full data integrity for managing staff, courses, payments, and clients.
+### [Grocery Store Management](https://github.com/Avigail-Stachi/grocery-store)
 
----
+An application for the two sides of a grocery order: the supplier and the store owner.
 
-## 🛠️ Tech Stack
-- **Languages & Frameworks:** Python, C#, .NET, JavaScript (Node.js, React), C, Embedded C++  
-- **Databases:** SQL Server, SQLite, MongoDB, Firebase, MS Access  
-- **AI & ML:** TensorFlow, PyTorch  
-- **Tools:** Git (GitHub, BitBucket) Postman, Entity Framework, Web API  
+I built client and admin portals for managing orders and stock, backed by Node.js REST APIs and MongoDB. The backend handles the order workflow and status updates, with API testing in Postman.
 
----
+**Node.js, React, MongoDB, REST APIs**
 
-## 📫 Contact Me
-- 📧 Email: [avigail.stachi@gmail.com](mailto:avigail.stachi@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/avigail-stachi/)
+### [Donation Management API](https://github.com/Avigail-Stachi/donation_project)
 
----
+A backend project for managing donations. I built the API routes with Node.js and MongoDB and tested them with Postman.
 
-⭐ *Check out my repositories below for more projects and experiments!*
+**Node.js, MongoDB, Postman**
+
+## Also in my repositories
+
+- [Dance Studio Database](https://github.com/Avigail-Stachi/dance_studio_sql) - a SQL Server project covering staff, courses, clients, and payments.
+- [Book Library](https://github.com/Avigail-Stachi/books_store) - a React app for browsing and managing a book collection.
+- [Candy Catch](https://github.com/Avigail-Stachi/candyCatch) - a robotic-arm game with Arduino, ESP32, and a React dashboard connected to Firebase.
+
+## Technologies I've worked with
+
+**Backend:** Python, C#/.NET, Node.js, Entity Framework  
+**Frontend & desktop:** JavaScript, React, WPF, WinForms  
+**Databases:** SQL Server, SQLite, MongoDB, Firebase  
+**AI & ML:** TensorFlow, PyTorch, NLP, computer vision, RAG  
+**Tools & testing:** Git, Postman, Jest
+
+## Say hello
+
+[LinkedIn](https://www.linkedin.com/in/avigail-stachi/) | [avigail.stachi@gmail.com](mailto:avigail.stachi@gmail.com)
