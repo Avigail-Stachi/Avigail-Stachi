@@ -6,9 +6,9 @@ I'm a software engineer focused on backend development, with a particular intere
 
 ## A few things I've built
 
-**[🔗 First Aid Assistant](https://github.com/Avigail-Stachi/first_aid_app)**
+### [First Aid Assistant](https://github.com/Avigail-Stachi/first_aid_app)
 
-What can you build around a description of an injury, or a photo of one 🤕?
+What can you build around a description of an injury, or a photo of one 🤕? 
 
 For my capstone, I built a first-aid assistant with two LSTM-based NLP models: one to classify the medical scenario and another to assess whether an ambulance is needed. I also fine-tuned a Faster R-CNN model to analyze injury images.
 
@@ -16,13 +16,13 @@ I connected the models to a Python backend and React chat interface, used SQLite
 
 The interesting part was getting the models to work as part of an application, beyond the training notebook.
 
-**[🔗 Grocery Store Management](https://github.com/Avigail-Stachi/grocery-store)**
+### [Grocery Store Management](https://github.com/Avigail-Stachi/grocery-store)
 
 An application for the two sides of a grocery order: the supplier and the store owner.
 
 I built client and admin portals for managing orders and stock, backed by Node.js REST APIs and MongoDB. The backend handles the order workflow and status updates, with API testing in Postman.
 
-**[🔗 Donation Management API](https://github.com/Avigail-Stachi/donation_project)**
+### [Donation Management API](https://github.com/Avigail-Stachi/donation_project)
 
 A backend project for managing donations. I built the API routes with Node.js and MongoDB and tested them with Postman.
 
